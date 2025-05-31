@@ -1,4 +1,4 @@
-# Employee Management System with Spring Security
+# Employee Management Application with Spring Security
 
 This Spring Boot application implements a basic Employee Management System with role-based access control using Spring Security.
 
@@ -11,7 +11,7 @@ This Spring Boot application implements a basic Employee Management System with 
 - [User Roles](#user-roles)
 - [User Registration and Login](#user-registration-and-login)
 - [User Validation](#user-validation)
-- [Logging Simplified with AOP](#logging-simplified-with-aop)
+- [Logging Simplified with AOP](#logging-simplified-with-aop)s
 - [Exception Handling](#exception-handling)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
